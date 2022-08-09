@@ -1,4 +1,3 @@
-.import
 # Plugin Specific ignores
 default_env.tres
 icon.png
@@ -15,4 +14,3 @@ export_presets.cfg
 # Mono-specific ignores
 .mono/
 data_*/
-
