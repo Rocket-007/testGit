@@ -39,7 +39,7 @@ _global_script_class_icons={
 [application]
 
 config/name="testGit"
-config/icon="res://icon.png"
+config/icon="res://icon1.png"
 
 [autoload]
 
